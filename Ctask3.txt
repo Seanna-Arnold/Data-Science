@@ -1,0 +1,3 @@
+Grammarly uses NLP to autocorrect but also improves vocabulary and generates writing tips.
+It uses Test summarization, sentiment analysis, and automatic summarization. Grammarly says that language contains layers of meaning, intertwined with emotion.
+They've created a program that can help with different types of misinterperations that can communicate the intended message with features such as full-sentence rewrites, tone adjustments and fluency.

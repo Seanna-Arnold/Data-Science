@@ -1,0 +1,4 @@
+a. Text classification is the most useful NLP application for sorting types of mail because it will analyze email content and will assign it a category 
+b. Automatic summarization is useful for grading essay questions to condense information for faster understanding so it makes the process more efficient
+c. Question Answering is useful for doctors who ask for diagnosis of symptoms and the program can return the results based on the question
+

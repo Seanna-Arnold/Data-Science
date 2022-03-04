@@ -1,0 +1,4 @@
+NLP would be useful in this course to identify problems within my code for all tasks.
+I have had many problems with my code, it would be useful if a program could explain why
+it would be wrong as a learning tool by using Automatic summarization, text classification, 
+sentiment analysis, question anwering, etc. 
